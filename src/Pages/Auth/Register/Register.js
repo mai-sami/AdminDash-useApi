@@ -1,11 +1,11 @@
 import React from 'react'
 
-function NotFound() {
+function Register() {
     return (
         <>
-        NotFound
+        Register
         </>
     )
 }
 
-export default NotFound
+export default Register

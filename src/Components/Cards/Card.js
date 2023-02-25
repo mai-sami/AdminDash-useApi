@@ -1,11 +1,10 @@
 import React from 'react'
 
-function NotFound() {
+function Card() {
     return (
         <>
-        NotFound
         </>
     )
 }
 
-export default NotFound
+export default Card
