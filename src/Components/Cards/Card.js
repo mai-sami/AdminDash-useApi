@@ -1,10 +1,10 @@
 import React from 'react'
 
-function Header() {
+function Card() {
     return (
         <>
         </>
     )
 }
 
-export default Header
+export default Card
